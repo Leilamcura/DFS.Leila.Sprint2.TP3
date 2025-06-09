@@ -1,0 +1,5 @@
+# Ignora la siguiente carpeta
+node_modules
+
+# Ignora el siguiente archivo
+superHeroes.txt
